@@ -11,6 +11,6 @@ Live drawing digital backgrounds for theatre performance "Elena" by Euripide. _I
 - Three years ago project/app for "The Macbeth" is here: https://github.com/Fupete/p5-sessions-2022-senigallia, and we have some concept design info and photos (italian language) on this wiki https://github.com/ds-2022-unirsm/p5-sessions-2022-senigallia/wiki.
 
 ##  CREDITS
-- Tx to Tagtool crew at OMAI (Tagtool Pro licenses) and Datatrade (Ipads).  
+- Tx to Tagtool crew at OMAI (Tagtool Pro licenses) and DataTrade (Ipads).  
 
 _work in progress, stay tuned_
